@@ -1,0 +1,64 @@
+.select-menu {
+  width: 397px;
+  margin: 150px auto;
+}
+.select-menu .select-btn {
+  position: relative;
+  top: -114px;
+  display: flex;
+  /* justify-content: center; */
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  background-color: #fff;
+  color: #333;
+  font-size: 18px;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+.select-btn .icon-arrow {
+  font-size: 25px;
+  transform: 1s;
+}
+.select-btn.active .icon-arrow {
+  transform: rotate(180deg);
+}
+
+.select-menu .list {
+  position: absolute;
+  left: 33.5%;
+  width: 380px;
+  transform: translateY(-140px);
+  margin-top: 40px;
+}
+.list .option {
+  display: flex;
+  align-items: center;
+  width: 380px;
+  height: 50px;
+  background-color: #fff;
+  padding: 0 8px;
+  cursor: pointer;
+  /* border-radius: 8px; */
+}
+.list .option:hover {
+  background: #f2f2f2;
+}
+.list .option:nth-child(1) {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.list .option:nth-child(4) {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.option .icon {
+  font-size: 25px;
+  margin-right: 12px;
+}
+.option .option-text {
+  font-size: 18px;
+  color: #333;
+}

@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "role": "Bachelor degree BS Computer Science",
+      "organisation": "Google",
+      "startDate": "2020-2024",
+      "endDate": "Present",
+      "location": "GC University Faisalabad",
+      "experiences": [
+        "Work Front End Developer",
+        "Work HTML, CSS, JavaScript, React.js...."
+      ],
+      "imageSrc": "company/gcuflogo.jpeg"
+    },
+    {
+      "id": 2,
+      "role": "Intermediate In Computer Science",
+      "organisation": "Mirosoft",
+      "startDate": "2018-2019",
+      "endDate": "Present",
+      "location": "Pattoki District Kasur",
+      "experiences": [
+        "work on typing speed",
+        "etc............"
+      ],
+      "imageSrc": "company/aspire.jpeg"
+    },
+    {
+      "id": 3,
+      "role": "Govt High School",
+      "organisation": "Netflix",
+      "startDate": "2015-2017",
+      "endDate": "Present",
+      "location": "Abc",
+      "experiences": [
+        "Work on Microsoft word",
+         "etc............"
+
+      
+      ],
+      "imageSrc": "company/govt.jpeg"
+    }
+  ]
