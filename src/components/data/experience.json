@@ -10,7 +10,7 @@
         "Work Front End Developer",
         "Work HTML, CSS, JavaScript, React.js...."
       ],
-      "imageSrc": "company/gcuflogo.jpeg"
+      "imageSrc": "/company/gcuflogo.jpeg"
     },
     {
       "id": 2,
@@ -23,7 +23,7 @@
         "work on typing speed",
         "etc............"
       ],
-      "imageSrc": "company/aspire.jpeg"
+      "imageSrc": "/company/aspire.jpeg"
     },
     {
       "id": 3,
@@ -38,6 +38,6 @@
 
       
       ],
-      "imageSrc": "company/govt.jpeg"
+      "imageSrc": "/company/govt.jpeg"
     }
   ]

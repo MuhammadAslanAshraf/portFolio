@@ -1,38 +1,38 @@
 [
   {
     "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "/skills/html.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "/skills/css.png"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "imageSrc": "/skills/javascript.png"
   },
   {
     "title": "React",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "/skills/react.png"
   },
   {
     "title": "Node",
-    "imageSrc": "skills/node.png"
+    "imageSrc": "/skills/node.png"
   },
   {
     "title":"Redux toolkit",
-    "imageSrc":"skills/redux.png"
+    "imageSrc":"/skills/redux.png"
   },
   {
     "title": "BootStrap",
-    "imageSrc": "skills/bootstrap.jpeg"
+    "imageSrc": "/skills/bootstrap.jpeg"
   },
   {
     "title": "Jira",
-    "imageSrc": "skills/jira.jpeg"
+    "imageSrc": "/skills/jira.jpeg"
   },
   {
     "title": "Next .Js",
-    "imageSrc": "skills/nextJs.jpeg"
+    "imageSrc": "/skills/nextJs.jpeg"
   }
 ]
