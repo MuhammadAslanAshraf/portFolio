@@ -19,9 +19,9 @@ const Experience = () => {
                 </div>
                 <div className="right">
                   <h2>{data.role}</h2>
-                  <h4><span style={{ color: 'yellowgreen' }}>{data.startDate}{" "}{data.endDate}</span>{" "}<span style={{ color: 'yellow' }}>{data.location}</span></h4>
-                  <h3 style={{ color: 'yellow' }}>{data.experiences[0]}</h3>
-                  <h3 style={{ color: 'yellow' }}>{data.experiences[1]}</h3>
+                  <h4><span>{data.startDate}{" "}{data.endDate}</span>{" "}<span style={{ color: '#55bcef' }}>{data.location}</span></h4>
+                  <h4 style={{ color:"#005aa7"}}>{data.experiences[0]}</h4>
+                  <p style={{}}>{data.experiences[1]}</p>
                 </div>
               </div>
             </>
