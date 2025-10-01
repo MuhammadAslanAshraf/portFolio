@@ -9,7 +9,7 @@ const Home = () => {
         const option = {
             strings: ["Well Come To My Profile ,",
                 "My Name Is Muhammad Aslan ,",
-                "I'm Front-End Developer (React Js)."
+                "I'm MERN Stack Developer (React Js)."
 
             ],
             typeSpeed: 50,

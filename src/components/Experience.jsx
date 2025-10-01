@@ -21,7 +21,7 @@ const Experience = () => {
                   <h2>{data.role}</h2>
                   <h4><span>{data.startDate}{" "}{data.endDate}</span>{" "}<span style={{ color: '#55bcef' }}>{data.location}</span></h4>
                   <h4 style={{ color:"#005aa7"}}>{data.experiences[0]}</h4>
-                  <p style={{}}>{data.experiences[1]}</p>
+                  <p>{data.experiences[1]}</p>
                 </div>
               </div>
             </>

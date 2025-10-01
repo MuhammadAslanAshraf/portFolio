@@ -17,10 +17,7 @@ const Contact = () => {
           <a href="https://www.linkedin.com/in/muhammad-aslan-ashraf-8883032ba/" target="_blank" className="item">
             <CiLinkedin className='icon' />
           </a>
-          <a href="https://pk.indeed.com/" target="_blank" className="item">
-            <SiIndeed className='icon' />
-          </a>
-          <a href="https://github.com/Muhammad11Aslan" target="_blank" className="item">
+          <a href="https://github.com/MuhammadAslanAshraf" target="_blank" className="item">
             <FaGithubSquare className='icon' />
           </a>
           <a href="mailto:muhammadaslan4013@gmail.com" target="_blank" className="item">
