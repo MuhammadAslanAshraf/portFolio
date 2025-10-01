@@ -11,7 +11,7 @@ const Skill = () => {
                             <>
                                 <div className="item" key={data.id} data-aos="flip-left"
                                     data-aos-duration="1000">
-                                    <img src={`/images${data.imageSrc}`} alt="" />
+                                    <img src={`/Images${data.imageSrc}`} alt="" />
                                     <h3>{data.title}</h3>
                                 </div>
 

@@ -15,7 +15,7 @@ const Experience = () => {
                 data-aos="zoom-in"
                 data-aos-duration="1000" >
                 <div className="left">
-                  <img src={`/images/${data.imageSrc}`} width="100px" style={{ borderRadius: '100px' }} alt="" />
+                  <img src={`/Images${data.imageSrc}`} width="100px" style={{ borderRadius: '100px' }} alt="" />
                 </div>
                 <div className="right">
                   <h2>{data.role}</h2>
